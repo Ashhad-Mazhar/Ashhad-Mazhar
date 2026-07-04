@@ -17,20 +17,18 @@
 ## 👋 About Me
 
 - 🎓 **CS Graduate**, UET Lahore (2026)
+- 🔍 Strong interest in **Data Engineering, Analytics and Machine Learning**
 - 🛠️ Focused on **Data Engineering** — pipelines, orchestration, and lakehouse architecture
 - 🧱 Comfortable across the stack: **Python, SQL, Docker, Airflow, Kafka, Microsoft Fabric, Power BI**
-- 🔍 Some hands-on exposure to **ML / computer vision**
-- 📡 Currently applying for data engineering internships & associate roles in Pakistan
 
 ---
 
 ## 💼 Experience
 
 **Data Engineering Intern — Punjab Police Special Branch**
-Built Airflow DAGs and Kafka-based Change Data Capture (CDC) pipelines for internal data systems.
 
-**Data Engineer — US Client Project**
-Consolidated multi-source data and built out reporting infrastructure using Microsoft Fabric.
+- Built Airflow DAGs and Kafka-based Change Data Capture (CDC) pipelines for internal data systems.
+- Performed data cleaning for use of internal police records data in AI systems
 
 ---
 
@@ -47,24 +45,14 @@ Consolidated multi-source data and built out reporting infrastructure using Micr
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ashhad-Mazhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashhad-Mazhar&theme=tokyonight&hide_border=true&layout=compact"/>
-
-</div>
 
 ---
 
