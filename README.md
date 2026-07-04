@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Ashhad%20Mazhar&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=560&height=40&lines=Data+Engineer;Building+Scalable+Data+Pipelines;Microsoft+Fabric+%7C+Airflow+%7C+Kafka;CS+Graduate%2C+UET+Lahore+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=560&height=40&lines=Data+Engineer;Building+Data+Pipelines;Microsoft+Fabric+%7C+Airflow+%7C+Kafka;CS+Graduate%2C+UET+Lahore+2026" alt="Typing SVG" />
 </h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashhadmazhar)
